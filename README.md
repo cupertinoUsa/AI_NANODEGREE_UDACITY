@@ -14,4 +14,10 @@ Repository for Udacity AI Nanodegree Projects.
 
 # TERM3 (VOICE USER INTERFACES)
 1) Building an Alexa Skill
-2) Speech Recognition with Neural Networks 
+2) Speech Recognition with Neural Networks    
+
+<object data="https://github.com/tagore15/AI_NANODEGREE_UDACITY/blob/master/certificate.pdf" type="application/pdf" width="700px" height="700px">
+<embed src="https://github.com/tagore15/AI_NANODEGREE_UDACITY/blob/master/certificate.pdf">
+This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/tagore15/AI_NANODEGREE_UDACITY/blob/master/certificate.pdf">Download PDF</a>.</p>
+</embed>
+</object>
