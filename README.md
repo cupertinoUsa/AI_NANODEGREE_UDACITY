@@ -1,4 +1,4 @@
-[image_cert]: certificate.png "certificate of graduation"
+[image_cert]: certificate.PNG "certificate of graduation"
 Repository for Udacity AI Nanodegree Projects.
 
 # TERM1 (AI FUNDAMENTALS) 
